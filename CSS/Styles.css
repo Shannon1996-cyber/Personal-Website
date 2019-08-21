@@ -1,0 +1,211 @@
+/* Navigation bar */
+
+ul{
+    list-style: none;
+    background-color: burlywood;
+    top:0;
+    position: fixed;
+    width: 100%;
+    margin: 0;
+}
+ul li a{
+    display:block;
+    font-size: 30px;
+    width: 50%;
+    block-size: 0%;
+    color: darkred;
+    margin:0;
+}
+
+li a:hover{
+    background-color: crimson;
+    color: chartreuse;
+}
+
+ul li{
+    float: left;
+    width: 20%;
+    text-align: center;
+    text-decoration: none;
+}
+
+
+/* Contact Information */
+#ContactPageHeader1{
+    text-decoration: underline;
+    font-size: 50px;
+    color: blue;
+    text-align: right;
+}
+
+#ContactInfo{
+    float: right;
+    height: 250px;
+    width: 600px;
+}
+
+
+
+
+
+/* Education */
+#EducationPageHeader1{
+    text-decoration: underline;
+    font-size: 50px;
+    color: crimson;
+    text-align: center;
+}
+
+.EducationText{
+    color: blanchedalmond;
+    font-size: 25px;
+    font-family: 'Sawarabi Mincho', sans-serif;
+
+}
+
+
+#BCU1{
+    height: 150px;
+    width: 800px;
+    margin: auto;
+    display: block;
+}
+
+#BCUHead1{
+    text-align: center;
+}
+#CRCLogo1{
+    height: 250px;
+    width: 800px;
+    margin: auto;
+    display: block;
+}
+
+#CRCHeading1{
+    text-align: center;
+}
+
+#WVC1{
+    height: 350px;
+    width: 350px;
+    margin: auto;
+    display: block;
+}
+
+#WVCHead1{
+    text-align: center;
+}
+
+
+
+#FLine1{
+    height: 150px;
+    width: 1350px;
+    margin: auto;
+    display: block;
+
+}
+
+
+
+
+
+/* Home Page */
+#HomePageHeader1{
+    text-decoration: underline;
+    font-size: 50px;
+    font-family: 'Great Vibes', cursive;
+    color: lightcoral;
+}
+
+#HomePageInfo1{
+    font-size: 25px;
+    font-family: 'Tangerine', cursive;
+   color: chocolate;
+}
+
+
+
+
+/* Jobs */
+#JobsPageHeader1{
+    text-decoration: underline;
+    font-size: 50px;
+    color: darkslateblue;
+    text-align: center;
+
+
+
+}
+
+
+.box1{ background-color:greenyellow;
+    font-family: 'Sawarabi Mincho', sans-serif;
+    font-size: 20px;
+text-align: center}
+
+.box2{ background-color: crimson;
+    font-family: 'Sawarabi Mincho', sans-serif;
+    font-size: 20px;
+text-align: center;
+color: gold;
+}
+
+
+.box3{ background-color:gold;
+    font-family: 'Sawarabi Mincho', sans-serif;
+    font-size: 20px;
+text-align: center}
+
+
+.box4{ background-color:purple;
+    font-family: 'Sawarabi Mincho', sans-serif;
+    font-size: 20px;
+    text-align: center;
+    color: gold;
+}
+
+
+.box5{ background-color:blue;
+    font-family: 'Sawarabi Mincho', sans-serif;
+    font-size: 20px;
+    text-align: center;
+    color: gold;
+}
+
+
+.box6{ background-color:forestgreen;
+    font-family: 'Sawarabi Mincho', sans-serif;
+    font-size: 20px;
+    text-align: center;
+    color: gold;
+}
+
+
+
+
+/* Skills and Hobbies */
+#SkillsAndHobbiesPageHeader1{
+    text-decoration: underline;
+    font-size: 50px;
+    color: darkgreen;
+    text-align: center;
+}
+.content5{
+    display: block;
+    width: 50%;
+    float: left;
+    background-color: coral;
+    height: 1500px;
+    text-align: center;
+}
+
+.skillPic{
+
+        display: block;
+        width: 50%;
+        float: left;
+       text-align: center
+
+        
+    }

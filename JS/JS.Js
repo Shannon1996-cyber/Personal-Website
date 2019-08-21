@@ -1,0 +1,1 @@
+alert("Welcome to my page, I hope you find the information usefull")
